@@ -3,7 +3,7 @@
     {
       "name": "thomas_spacemouse",
       "maintainer": "Thomas Sundberg",
-      "websiteURL": "https://github.com/twprintsstudio/thomas-spacemouse-board",
+      "websiteURL": "https://github.com/twprintsstudio/SpaceMouse",
       "email": "tw.sundberg@icloud.com",
       "platforms": [
         {
@@ -11,8 +11,8 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/twprintsstudio/thomas-spacemouse-board/archive/refs/heads/main.zip",
-          "archiveFileName": "thomas-spacemouse-board.zip",
+          "url": "https://github.com/twprintsstudio/SpaceMouse/archive/refs/heads/main.zip",
+          "archiveFileName": "SpaceMouse.zip",
           "checksum": "SHA-256:placeholder",
           "size": "0",
           "boards": [
