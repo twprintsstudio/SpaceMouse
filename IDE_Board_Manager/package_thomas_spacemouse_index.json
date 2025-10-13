@@ -13,8 +13,8 @@
           "category": "Contributed",
           "url": "https://github.com/twprintsstudio/SpaceMouse/archive/refs/heads/main.zip",
           "archiveFileName": "SpaceMouse.zip",
-          "checksum": "SHA-256:placeholder",
-          "size": "0",
+          "checksum": "SHA-256:a9075da47f2401a5f40a9c7e678fe1761697bcce6f790161e0777f4cf97ca479",
+          "size": "196622464",
           "boards": [
             { "name": "Thomas SpaceMouse Pro Micro" }
           ],
