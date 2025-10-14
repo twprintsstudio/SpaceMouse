@@ -10,7 +10,7 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/twprintsstudio/SpaceMouse/archive/refs/heads/spacemouse-hardware.zip",
+          "url": "https://github.com/twprintsstudio/SpaceMouse/releases/download/v1.0.0/spacemouse-1.0.0.zip",
           "archiveFileName": "spacemouse-1.0.0.zip",
           "checksum": "SHA-256:7571167999ffdd3d476b01438efd8890579c5400e1e0f5690007504ba4d4c5f4",
           "size": "1625885"
