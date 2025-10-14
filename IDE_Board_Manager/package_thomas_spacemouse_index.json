@@ -6,14 +6,21 @@
       "websiteURL": "https://github.com/twprintsstudio/SpaceMouse",
       "platforms": [
         {
-          "name": "SpaceMouse Pro Micro Boards",
+          "name": "SpaceMouse AVR Boards",
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/user-attachments/files/22907915/spacemouse-1.0.0.zip",
-          "archiveFileName": "spacemouse-1.0.0.zip",
-          "checksum": "SHA-256:7571167999ffdd3d476b01438efd8890579c5400e1e0f5690007504ba4d4c5f4",
-          "size": "1625885"
+          "url": "https://github.com/twprintsstudio/SpaceMouse/raw/spacemouse-hardware/spacemouseboards.1.0.0.tar.bz2",
+          "archiveFileName": "spacemouseboards.1.0.0.tar.bz2",
+          "checksum": "SHA-256:REPLACE_WITH_REAL_HASH",
+          "size": "REPLACE_WITH_REAL_SIZE",
+          "help": {
+            "online": "https://github.com/twprintsstudio/SpaceMouse/issues"
+          },
+          "boards": [
+            { "name": "SpaceMouse Pro Micro" }
+          ],
+          "toolsDependencies": []
         }
       ],
       "tools": []
