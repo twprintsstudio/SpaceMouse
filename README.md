@@ -1,18 +1,18 @@
-# SparkFun Arduino Boards
+# SparkFun Arduino Pro Micro Board (5v,16MHz) with updated values for compatibility with 3dconnections software
 
-This repository contains support for the following SparkFun Arduino-compatible development boards.
+This repository contains support for the following SparkFun Arduino-compatible development boards that have been modified to be recognized by the 3dconnections software.
 
-**IMPORTANT NOTE:** These board files have been updated for compatibility with Arduino version 1.8 and higher. Some boards (e.g. SAMD) may not compile correctly with earlier versions of Arduino. If you need compatibility with earlier versions of Arduino, you can choose previous releases of these boards from the Boards Manager.
+**IMPORTANT NOTE:** These board files have been updated for compatibility with Arduino version 1.8 and higher. Some boards may not compile correctly with earlier versions of Arduino. If you need compatibility with earlier versions of Arduino, you can choose previous releases of these boards from the Boards Manager.
 
 
-- [Pro Micro 5V](https://www.sparkfun.com/products/11098)
+- [Pro Micro 5V (with updated vidx0 and pidx0 values)](https://www.sparkfun.com/products/11098)
 
 
 ### Installation Instructions
 
 To add board support for our products, start Arduino and open the Preferences window (**File** > **Preferences**). Now copy and paste the following URL into the 'Additional Boards Manager URLs' input field:
 
-    (https://raw.githubusercontent.com/twprintsstudio/SpaceMouse/main/IDE_Board_Manager/package_thomas_spacemouse_index.json)
+    https://raw.githubusercontent.com/twprintsstudio/SpaceMouse/main/IDE_Board_Manager/package_thomas_spacemouse_index.json
 
 
 ![Boards Manager Menu](manager-menu.png)
