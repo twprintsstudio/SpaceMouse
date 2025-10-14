@@ -15,8 +15,14 @@ To add board support for our products, start Arduino and open the Preferences wi
     https://raw.githubusercontent.com/twprintsstudio/SpaceMouse/main/IDE_Board_Manager/package_thomas_spacemouse_index.json
 
 
-![Boards Manager Menu](AddLink.png)(AddLinkPt2.png)(AddLinkPt3.png)(ExitLink.png)(BoardsManagerPt1.png)(BoardManager.png)
+![Adding Link Step 1](AddLink.png)
+![Adding Link Step 2](AddLinkPt2.png)
+![Adding Link Step 3](AddLinkPt3.png)
+![Adding Link Step 4](ExitLink.png)
+
+![Adding The Board Step 1](BoardsManagerPt1.png)
+1[Adding The Board Step 2](BoardManager.png)
 
 If you type "spacemouse" (without quotes) into the "filter your search" field, you will see options to install SpaceMouse AVR Boards files. Click in the desired box, and click the "Install" button that appears. Once installed, the boards will appear at the bottom of the board list.
 
-![Sparkfun Boards](BoardSelection.png)
+![Selecting Board](BoardSelection.png)
