@@ -12,8 +12,8 @@
           "category": "Contributed",
           "url": "https://github.com/twprintsstudio/SpaceMouse/raw/spacemouse-hardware/spacemouseboards.1.0.0.tar.bz2",
           "archiveFileName": "spacemouseboards.1.0.0.tar.bz2",
-          "checksum": "SHA-256:REPLACE_WITH_REAL_HASH",
-          "size": "REPLACE_WITH_REAL_SIZE",
+          "checksum": "SHA-256:79737a0965250e52780895e394837e93713fa3c7daa049c93dfb18e16b182b66",
+          "size": "1515001",
           "help": {
             "online": "https://github.com/twprintsstudio/SpaceMouse/issues"
           },
