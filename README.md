@@ -5,7 +5,8 @@ This repository contains support for the following SparkFun Arduino-compatible d
 **IMPORTANT NOTE:** These board files have been updated for compatibility with Arduino version 1.8 and higher. Some boards may not compile correctly with earlier versions of Arduino. If you need compatibility with earlier versions of Arduino, you can choose previous releases of these boards from the Boards Manager.
 
 
-- [Pro Micro 5V (with updated vidx0 and pidx0 values)](https://www.sparkfun.com/products/11098)
+- [Pro Micro 5V ](https://a.co/d/3ddU77Y)
+- [Joysticks](https://a.co/d/2xWhi8S)
 
 
 ### Installation Instructions
@@ -19,10 +20,9 @@ To add board support for our products, start Arduino and open the Preferences wi
 ![Adding Link Step 2](AddLinkPt2.png)
 ![Adding Link Step 3](AddLinkPt3.png)
 ![Adding Link Step 4](ExitLink.png)
-
-![Adding The Board Step 1](BoardsManagerPt1.png)
-1[Adding The Board Step 2](BoardManager.png)
-
 If you type "spacemouse" (without quotes) into the "filter your search" field, you will see options to install SpaceMouse AVR Boards files. Click in the desired box, and click the "Install" button that appears. Once installed, the boards will appear at the bottom of the board list.
+![Adding The Board Step 1](BoardsManagerPt1.png)
+![Adding The Board Step 2](BoardManager.png)
+If you go to "tools" then go to "Boards" and find "SpaceMouse AVR Boards" and then select "Thomas SpaceMouse Pro Micro"
 
 ![Selecting Board](BoardSelection.png)
