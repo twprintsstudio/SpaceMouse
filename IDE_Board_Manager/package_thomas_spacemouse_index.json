@@ -6,7 +6,7 @@
       "websiteURL": "https://github.com/twprintsstudio/SpaceMouse",
       "platforms": [
         {
-          "name": "SpaceMouse AVR Boards",
+          "name": "SpaceMouse Pro Micro Boards",
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
