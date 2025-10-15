@@ -8,12 +8,12 @@
         {
           "name": "SpaceMouse AVR Boards",
           "architecture": "avr",
-          "version": "1.0.0",
+          "version": "1.0.2",
           "category": "Contributed",
-          "url": "https://github.com/twprintsstudio/SpaceMouse/releases/download/v1.0.0/spacemouseboards-1.0.0.tar.bz2",
+          "url": "https://github.com/twprintsstudio/SpaceMouse/releases/download/v1.0.2/spacemouseboards-1.0.2.tar.bz2",
           "archiveFileName": "spacemouseboards.1.0.0.tar.bz2",
-          "checksum": "SHA-256:79737a0965250e52780895e394837e93713fa3c7daa049c93dfb18e16b182b66",
-          "size": "1515001",
+          "checksum": "SHA-256:4827e594600127e4e9f6bd83be3247eda98e95be77f12b6f1933370ffd39db95",
+          "size": "1514534",
           "help": {
             "online": "https://github.com/twprintsstudio/SpaceMouse/issues"
           },
