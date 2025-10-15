@@ -26,6 +26,6 @@ spacemouse.build.vid=0x256F
 spacemouse.build.pid=0xC631
 spacemouse.build.usb_product="Thomas SpaceMouse Pro Micro"
 spacemouse.build.board=AVR_PROMICRO
-spacemouse.build.core=arduino
+spacemouse.build.core=arduino:arduino
 spacemouse.build.variant=promicro
 spacemouse.build.extra_flags={build.usb_flags}
