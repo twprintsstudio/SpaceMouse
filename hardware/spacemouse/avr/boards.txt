@@ -1,7 +1,7 @@
 #############################
 # SpaceMouse Pro Micro (5V, 16 MHz)
 #############################
-spacemouse.name=Thomas SpaceMouse Pro Micro
+spacemouse.name=Spacemouse
 
 spacemouse.upload.tool=avrdude
 spacemouse.upload.protocol=avr109
@@ -24,8 +24,9 @@ spacemouse.build.mcu=atmega32u4
 spacemouse.build.f_cpu=16000000L
 spacemouse.build.vid=0x256F
 spacemouse.build.pid=0xC631
-spacemouse.build.usb_product="Thomas SpaceMouse Pro Micro"
+spacemouse.build.usb_product="Spacemouse"
 spacemouse.build.board=AVR_PROMICRO
 spacemouse.build.core=arduino:arduino
 spacemouse.build.variant=promicro
 spacemouse.build.extra_flags={build.usb_flags}
+spacemouse.upload.tool.serial=avrdude
